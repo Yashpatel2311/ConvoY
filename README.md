@@ -1,4 +1,4 @@
-# 🚀 ConvoY – Real-time Chat Application
+<img width="1912" height="886" alt="ConvoY" src="https://github.com/user-attachments/assets/7f1aa458-f0c7-4e09-a5c5-2039e542c739" /># 🚀 ConvoY – Real-time Chat Application
 
 ConvoY is a real-time chat application built with the MERN stack and Socket.io. It offers a seamless messaging experience with secure JWT authentication, real-time online status, and global state management via Zustand. The app features a modern UI built with TailwindCSS and Daisy UI, along with robust backend functionality for message handling and user management.
 
@@ -31,11 +31,10 @@ ConvoY is a real-time chat application built with the MERN stack and Socket.io. 
 - JWT (Authentication)
 - Cloudinary (Media Storage)
 
----
+
 
 ## 📁 Directory Structure
-
-
+---
 └── yashpatel2311-convoy/
 ├── Backend/
 │ ├── package.json
@@ -100,6 +99,11 @@ ConvoY is a real-time chat application built with the MERN stack and Socket.io. 
 
 
 
+
+
+
+
+
 ## 🧪 Getting Started
 
 ### 1. Clone the Repo
@@ -110,14 +114,14 @@ cd ConvoY
 ### 2. Backend Setup
 cd Backend
 npm install
-# Create a `.env` file and add Mongo URI, JWT secret, etc.
+Create a `.env` file and add Mongo URI, JWT secret, etc.
 npm run dev
 
-3. Frontend Setup
+### 3. Frontend Setup
 cd ../Frontend
 npm install
 npm run dev
 
-4. Final Step
+### 4. Final Step
    Visit http://localhost:5173 to view the app in development mode.
 
